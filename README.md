@@ -1,10 +1,10 @@
 # fancybox2-rails [![Gem Version](http://img.shields.io/gem/v/fancybox2-rails.svg)](https://rubygems.org/gems/fancybox2-rails) [![Build Status](https://travis-ci.org/kyparn/fancybox2-rails.svg)](https://travis-ci.org/kyparn/fancybox2-rails)
 
-Use [fancybox](http://www.fancyapps.com/fancybox/) with rails 3.1/4 asset pipeline.
+Use [fancybox](http://www.fancyapps.com/fancybox/) with rails 3.1/4/5 asset pipeline.
 
 ## Installation
 
-This gem vendors jquery fancybox 2 for Rails 3.1/4 and greater. The files
+This gem vendors jquery fancybox 2 for Rails 3.1/4/5 and greater. The files
 will be added to the asset pipeline and available for you to use.
 
 First add the following lines to your applications `Gemfile`:

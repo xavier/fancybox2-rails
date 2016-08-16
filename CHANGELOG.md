@@ -1,5 +1,8 @@
+# 0.2.1 / 2016-08-16
+* Update gemspec to allow for installation with Rails 5.
+
 # 0.2.0 / 2012-10-12
-* Fancybox2 fork is now released as it's own gem.
+* Fancybox2 fork is now released as its own gem.
 
 # 0.1.3 / 2011-08-11
 
@@ -13,3 +16,4 @@
 # 0.0.1 / 2011-05-19
 
 * Initial release
+
